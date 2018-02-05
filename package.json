@@ -1,8 +1,8 @@
 {
-  "name": "webpack-es6-boilerplate",
+  "name": "ES6 Boilerplate",
   "version": "1.0.1",
-  "author": "Joseph Luccisano <joseph.luccisano@gmail.com> (https://jluccisano.github.io)",
-  "description": "A delightfully Webpack ES6 Boilerplate",
+  "author": "Pasquino",
+  "description": "ES6 Boilerplate",
   "license": "MIT",
   "keywords": [
     "webpack",
@@ -13,13 +13,9 @@
     "jest",
     "sass"
   ],
-  "bugs": {
-    "url": "https://github.com/jluccisano/webpack-es6-boilerplate/issues",
-    "email": "joseph.luccisano@gmail.com"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jluccisano/webpack-es6-boilerplate.git"
+    "url": "https://github.com/ufollettu/ES6Project.git"
   },
   "main": "src/index.js",
   "scripts": {
