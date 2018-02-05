@@ -3,7 +3,7 @@
 [![tests][tests]][tests-url]
 [![coverage][cover]][cover-url]
 
-A minimalistic Webpack 2 ES6 boilerplate project.
+Webpack 2 ES6 boilerplate project.
 
 ## Prerequisites
 
@@ -26,7 +26,7 @@ A minimalistic Webpack 2 ES6 boilerplate project.
 
 ## Start Dev Server
 
-1. `git clone https://github.com/jluccisano/webpack-es6-boilerplate.git`
+1. `git clone https://github.com/ufollettu/ES6Project.git`
 2. Run `npm install`
 3. Start the dev server using `npm start`
 3. Open [http://localhost:9000](http://localhost:9000)
@@ -40,11 +40,6 @@ A minimalistic Webpack 2 ES6 boilerplate project.
 - `npm run coverage` - run code coverage and generate report in the `coverage` folder
 - `npm test` - run all tests
 - `npm run test:watch` - run all tests in watch mode
-
-## Licence
-
-_webpack-es6-boilerplate_ is available under MIT.
-
 [npm]: https://img.shields.io/badge/npm-5.3.0-blue.svg
 [npm-url]: https://npmjs.com/
 
